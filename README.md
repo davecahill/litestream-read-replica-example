@@ -3,7 +3,7 @@ Litestream Read Replica Example
 
 This repository is an example of how to setup and deploy a multi-node SQLite
 database using Litestream's live read replication feature. For more information,
-please see the [Read Replication Guide](https://litestream.io/guides/read-replica/)
+please see the [Read Replication Guide](https://tip.litestream.io/guides/read-replica/)
 on the Litestream documentation site.
 
 This example provides a Dockerfile and deployment instructions for [fly.io](https://fly.io),
